@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "//goshuchok.github.io/test_tel/static/css/main.bd4ca449.css",
+    "main.js": "//goshuchok.github.io/test_tel/static/js/main.c129905a.js",
+    "static/js/787.a520716e.chunk.js": "//goshuchok.github.io/test_tel/static/js/787.a520716e.chunk.js",
+    "index.html": "//goshuchok.github.io/test_tel/index.html",
+    "main.bd4ca449.css.map": "//goshuchok.github.io/test_tel/static/css/main.bd4ca449.css.map",
+    "main.c129905a.js.map": "//goshuchok.github.io/test_tel/static/js/main.c129905a.js.map",
+    "787.a520716e.chunk.js.map": "//goshuchok.github.io/test_tel/static/js/787.a520716e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd4ca449.css",
+    "static/js/main.c129905a.js"
+  ]
+}
